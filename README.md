@@ -1,2 +1,3 @@
 # project1
-my projects
+My Initial GIT Repository
+Aytor: Nahyan
